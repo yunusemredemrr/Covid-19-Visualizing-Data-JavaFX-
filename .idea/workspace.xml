@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1boGfILAm4E3h16Yye4MCvRovma" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Covid19Vize" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.Cases" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebCrawler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.WebCrawler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebCrawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1589291138464" duration="10985000" />
+      <workItem from="1589567954092" duration="3564000" />
+      <workItem from="1589645149064" duration="14941000" />
+      <workItem from="1590013111244" duration="8967000" />
+      <workItem from="1590407287047" duration="22624000" />
+      <workItem from="1590521799687" duration="15893000" />
+      <workItem from="1590623160964" duration="62265000" />
+      <workItem from="1590933418766" duration="5660000" />
+      <workItem from="1590951355652" duration="82000" />
+      <workItem from="1590952123038" duration="292000" />
+      <workItem from="1592786818124" duration="208000" />
+      <workItem from="1592787045502" duration="263000" />
+      <workItem from="1593609491193" duration="746000" />
+      <workItem from="1593695711201" duration="94000" />
+      <workItem from="1593701415757" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1590095356870">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.832@0.0.1536.832" timestamp="1590095356870" />
+    <state x="485" y="75" key="#WebCrawler" timestamp="1589347653454">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="485" y="75" key="#WebCrawler/0.0.1536.832@0.0.1536.832" timestamp="1589347653454" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1590625342907">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.832@0.0.1536.832" timestamp="1590625342907" />
+    <state x="663" y="333" key="#com.intellij.refactoring.introduceParameter.EnclosingMethodSelectonDialog" timestamp="1589347840319">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="663" y="333" key="#com.intellij.refactoring.introduceParameter.EnclosingMethodSelectonDialog/0.0.1536.832@0.0.1536.832" timestamp="1589347840319" />
+    <state x="499" y="163" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590780095051">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.832@0.0.1536.832" timestamp="1590780095051" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1590014235860">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1590014235860" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1593610606005">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1593610606005" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1593610606005">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1593610606005" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1593610606005">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1593610606005" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1593610606005">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1593610606005" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1590933285659">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.832@0.0.1536.832" timestamp="1590933285659" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1590933285659">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.832@0.0.1536.832" timestamp="1590933285659" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1590933285659">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.832@0.0.1536.832" timestamp="1590933285659" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1590933285659">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.832@0.0.1536.832" timestamp="1590933285659" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1590447503404">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1590447503404" />
+    <state x="465" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1593695753652">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="465" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.832@0.0.1536.832" timestamp="1593695753652" />
+    <state x="499" y="182" key="extract.method.dialog" timestamp="1590247459360">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="499" y="182" key="extract.method.dialog/0.0.1536.832@0.0.1536.832" timestamp="1590247459360" />
+    <state x="223" y="74" key="new project wizard" timestamp="1593695800731">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="223" y="74" key="new project wizard/0.0.1536.832@0.0.1536.832" timestamp="1593695800731" />
+    <state x="475" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1589347844479">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="475" y="35" key="refactoring.ChangeSignatureDialog/0.0.1536.832@0.0.1536.832" timestamp="1589347844479" />
+  </component>
+</project>
